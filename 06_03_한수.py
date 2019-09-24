@@ -2,6 +2,7 @@ n=int(input())
 
 def split(number):
     list=(([int(i) for i in str(number)]))
+    print(list)
     return list
 
 def classification(number, list, diff):
@@ -24,6 +25,7 @@ if __name__ == '__main__':
 
     else:
         for i in range(4, -1, -1):
+            print(i)
             if split_number_list[0]-2*i>=0:
                 break
         classification(n, split_number_list, -i)
