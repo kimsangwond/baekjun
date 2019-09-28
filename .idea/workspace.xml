@@ -13,15 +13,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_01_아스키코드.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07_05_단어공부.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -52,16 +43,25 @@
         <entry file="file://$PROJECT_DIR$/06_05_별찍기-10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08_01_손익분기점.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08_01_손익분기점.py">
+        <entry file="file://$PROJECT_DIR$/08_03_벌집.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="60">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -127,10 +127,12 @@
         <option value="$PROJECT_DIR$/06_03_한수.py" />
         <option value="$PROJECT_DIR$/06_05_별찍기-10.py" />
         <option value="$PROJECT_DIR$/08_01_손익분기점.py" />
+        <option value="$PROJECT_DIR$/07_03_벌집.py" />
+        <option value="$PROJECT_DIR$/08_03_벌집.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="840" />
     <option name="y" value="23" />
     <option name="width" value="840" />
@@ -142,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,14 +151,11 @@
               <item name="baekjun" type="b2602c69:ProjectViewProjectNode" />
               <item name="baekjun" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="baekjun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,19 +191,20 @@
       <workItem from="1568698368439" duration="10578000" />
       <workItem from="1569140927750" duration="5779000" />
       <workItem from="1569162096275" duration="13133000" />
-      <workItem from="1569305357121" duration="1835000" />
+      <workItem from="1569305357121" duration="2518000" />
+      <workItem from="1569657941318" duration="703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38376000" />
+    <option name="totallyTimeSpent" value="39762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="840" y="23" width="840" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48882264" visible="true" weight="0.2518797" />
-      <window_info id="Structure" order="1" sideWeight="0.51117736" side_tool="true" visible="true" weight="0.2518797" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48733234" visible="true" weight="0.12576313" />
+      <window_info id="Structure" order="1" sideWeight="0.51266766" side_tool="true" visible="true" weight="0.12576313" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -261,6 +260,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07_03_벌집.py" />
     <entry file="file://$PROJECT_DIR$/07_05_단어공부.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -282,6 +282,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/06_05_별찍기-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_01_손익분기점.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_01_최소최대.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05_05_나머지.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -299,24 +320,10 @@
     <entry file="file://$PROJECT_DIR$/06_01_정수N개의합.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_05_별찍기-10.py">
+    <entry file="file://$PROJECT_DIR$/08_03_벌집.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_01_최소최대.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_01_손익분기점.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
         </state>
       </provider>
     </entry>
