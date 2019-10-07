@@ -1,22 +1,22 @@
 N=int(input())
 total_list=[]
 total_count=[]
-rank=[]
 count=-1
-ranking=1
-red=0
 
 for _ in range(N):
     human=list(map(int, input().split()))
     total_list.append(human)
     total_count.append(0)
-    rank.append(0)
+
+total_list_copy=total_list[:]
 
 for i in range(len(total_list)):
+    a=total_list.pop(i)
     count += 1
     for b in range(len(total_list)):
         if a[0] < total_list[b][0] and a[1] < total_list[b][1]:
             total_count[count] += 1
+    total_list=total_list_copy[:]
 
 for i in range(N):
     print(total_count[i]+1, end=' ')
